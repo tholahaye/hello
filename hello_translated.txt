@@ -5,3 +5,4 @@ Hallo Welt
 salut
 try
 guten tag
+ohayo gosaimasu
